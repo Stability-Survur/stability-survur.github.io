@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Minecraft";
+    src: url(fonts/Minecraft.ttf);
+}
+@font-face {
+    font-family: "Standard Galactic";
+    src: url(fonts/standard-galactic-alphabet.ttf);
+}
+
+p {
+    font-family: 'Minecraft', sans-serif;
+    color: lightseagreen;
+    font-size: 150%;
+}
+
+#index {
+    background-color: darkslateblue;
+}
