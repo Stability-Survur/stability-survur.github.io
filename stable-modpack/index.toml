@@ -356,6 +356,11 @@ hash = "8144bc5631457a762074a032a196e7cf5b40607f705923ee3305c9d20aed61cf"
 metafile = true
 
 [[files]]
+file = "mods/infinite-music.pw.toml"
+hash = "9fe98b97f38feceabf180a9f41ce84ec72a4b8a06098ef98d5af503be271b445"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "38f73b90fe0ce16bfede3492bde736c04a299565de985ddbbd576ec79b34abb7"
 metafile = true
