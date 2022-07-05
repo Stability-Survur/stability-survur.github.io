@@ -1,0 +1,13 @@
+name = "Stable Modpack"
+author = "OneYellowLemon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7dee9f566b7daccc0f0000131fe17319e6753a7e41593bd88fa7e39d2e54256e"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.18.2"
