@@ -93,10 +93,6 @@ file = "config/lambdynlights.toml"
 hash = "9bc4653cf193dc38489a7c076935bdcdd55c0f28f7758c0dc55d3073e870bed6"
 
 [[files]]
-file = "config/litematica.json"
-hash = "1be5adb8d3c622dab128c3fa02b303059a6be4234351c7dc81990bbad385aa7d"
-
-[[files]]
 file = "config/litematica/litematica_new_worldtest.json"
 hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
 
