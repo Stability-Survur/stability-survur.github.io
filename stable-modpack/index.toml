@@ -73,8 +73,16 @@ file = "mods/PresenceFootsteps-1.5.1.jar"
 hash = "b8ef1f8f19b82f02004a4c45dc91b20adad29461a641137c9d5e0c09e1014291"
 
 [[files]]
+file = "mods/RebornCore-5.2.0.jar"
+hash = "bab2264d0cc496169353f364be84e30c256121cd1fa1c83248bc71e8dfb9f759"
+
+[[files]]
 file = "mods/Runelic-Fabric-1.18.2-11.0.1.jar"
 hash = "7ac8e32eb160d67a20adc93f23c80b4e595f1f620c5f653eeb238ff72b643984"
+
+[[files]]
+file = "mods/TechReborn-5.2.0.jar"
+hash = "2891dc3afad7a1502cb1e72f18db34b150b1545adf83990419a6e429aadae295"
 
 [[files]]
 file = "mods/Tips-Fabric-1.18.2-5.0.3.jar"
