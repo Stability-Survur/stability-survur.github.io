@@ -5,6 +5,10 @@ file = "config/craftpresence.properties"
 hash = "ca6b6342dfa456d955bc1b399f0fa74332d6a88ead6bf77a615115c536a55cc9"
 
 [[files]]
+file = "config/immersive_portals_fabric.json"
+hash = "4e79df157dd0d33c92eaadd5ad63bfddab19fd3d0e8afe44cf36621781313ee3"
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "a0afc6c2a79d0b46b97a4175a81faec5a8bef25aa087e455d8790505ed3408f0"
 
@@ -61,6 +65,10 @@ file = "mods/PigPen-Fabric-1.18.2-8.0.1.jar"
 hash = "a32d435e00097f303b2f57c0a590c19971430c6c6436c873b3f8cee8cd140a1a"
 
 [[files]]
+file = "mods/Powah-3.0.1-beta.jar"
+hash = "86f178050db15d284ca357167d197f0ee5ea2c5d5b184657097c98637d9b3eb0"
+
+[[files]]
 file = "mods/PresenceFootsteps-1.5.1.jar"
 hash = "b8ef1f8f19b82f02004a4c45dc91b20adad29461a641137c9d5e0c09e1014291"
 
@@ -87,6 +95,10 @@ hash = "13be7bb1da05dcf1a5f39562f0e410cc527f8306d048bf3a1fd2bc26c3a5065a"
 [[files]]
 file = "mods/arcanus-1.29.jar"
 hash = "7347b225b129e0645b10249001d7fa71816db7a6ad9fcc1a27a6f6e5746a74eb"
+
+[[files]]
+file = "mods/architectury-4.5.76-fabric.jar"
+hash = "1120ceaf2a0f97b21e99cbab41db2a78b7283c513f59b1bd154833ccc7c6c88a"
 
 [[files]]
 file = "mods/badpackets-fabric-0.1.2.jar"
