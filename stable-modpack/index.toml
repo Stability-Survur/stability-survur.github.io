@@ -1,523 +1,249 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/advancementplaques.json5"
-hash = "e88d69710902c77a64f8ee2327651c0b61e03c432fb85a9095a87ed7d49b0459"
-
-[[files]]
-file = "config/appliedenergistics2/client.json"
-hash = "8e1abdf2a5ca581b487476ee413c4aaeb73b3173a2eb9512d41443cab9db5bbc"
-
-[[files]]
-file = "config/appliedenergistics2/common.json"
-hash = "dacf0c5e2ba774bf0f60c8ad4a16a34db738bf4a8977f37bdbf2b6b9a496cc44"
-
-[[files]]
-file = "config/arcanus.json5"
-hash = "de7d9c12d252398eb65a0c34571dd530ae0d5305068b2013eaaf0d6224fc1d2f"
-
-[[files]]
-file = "config/campanion.json"
-hash = "256e6f1c80b8bddf8ebba8d4aacfb769c046c5b688201be5ccaf7bb29d657d80"
-
-[[files]]
-file = "config/chunky.json"
-hash = "314e5382c4f0ac6fb9fea3d5625ca136433fd996572ae78ba160896e480dbcc6"
-
-[[files]]
-file = "config/computercraft-client.toml"
-hash = "8e1af48fbafb26e374fb91793cd950e32dc4008e423267f8d2006c2350bfd567"
-
-[[files]]
 file = "config/craftpresence.properties"
 hash = "ca6b6342dfa456d955bc1b399f0fa74332d6a88ead6bf77a615115c536a55cc9"
-
-[[files]]
-file = "config/dawn/features.json"
-hash = "467b0c5ba2eeacd383157b6f6a457e27a280e25b8cfc2d88c5deaba6ae4e63cb"
-
-[[files]]
-file = "config/emotecraft.json"
-hash = "0b6d2215bba3ae73643c9464f3dc7f6c06f5572576301a62350c02a13525cc88"
-
-[[files]]
-file = "config/emotecraft_emote_map.json"
-hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
-
-[[files]]
-file = "config/enhanced_bes.properties"
-hash = "4005524b3a3fa26bd02369f42d53628c57f545f9291a63c6026ef61a84f45b64"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "ab43c3c3b94aa5718916197872a032fae91f934fc58c2428279ceac4e128d78f"
-
-[[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
-
-[[files]]
-file = "config/immersive_portals_fabric.json"
-hash = "4e79df157dd0d33c92eaadd5ad63bfddab19fd3d0e8afe44cf36621781313ee3"
-
-[[files]]
-file = "config/immersive_weathering.json5"
-hash = "78feafc90e9cf88686dfb34ee0ec3bbe3e0ae47ebcf9ec06b17c1b5092ff91e2"
-
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "74a8aec985b67ea0b9cf6c60e373f69397bc0ad62da36472b68bfc233b8de4dd"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "88174518d4a472a6f03625ad526429aee34860ca74bf479894a88e49aeca75e3"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "5064fb08f3a4af3321de4746ac60fe83ac464732b684a38c68d97ad2c4bce440"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "82d25ad2e57e63c06c7f8e14814991accd1fb3a8e2bf70d1a98b3b47471e93e6"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "f07420c28821341c7b85b7dc540b0ab4d83ba871e6e3025bb0731c94e5aca2d8"
-
-[[files]]
-file = "config/kiln.json"
-hash = "fe5b639fcf5f5e1e53c14691e9398eff39e8f7d6f0c73c73d1f1dda5a50576cd"
-
-[[files]]
-file = "config/lambdynlights.toml"
-hash = "9bc4653cf193dc38489a7c076935bdcdd55c0f28f7758c0dc55d3073e870bed6"
-
-[[files]]
-file = "config/litematica/litematica_new_worldtest.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_new_worldtest_dim_minecraft_overworld.json"
-hash = "fc69a2c7ff1ec5b01546a99c5ea8566f9a095302477b7ba950409df0a64c60ff"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
-
-[[files]]
-file = "config/malilib.json"
-hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
-
-[[files]]
-file = "config/midnightlib.json"
-hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
-
-[[files]]
-file = "config/minecraftcapes.json"
-hash = "f0fd14eec99068dc68655c97de30747c4b5d155114d9004c6e280cabdc499d14"
-
-[[files]]
-file = "config/minecraftcapes/profile/c1/c1331f6c-adae-4e64-a05f-28334b42516e"
-hash = "16a71e4c89c817714753835ab8b94536ec03e5e0ff09fadb7e2238db4bcdc509"
-
-[[files]]
-file = "config/minihud.json"
-hash = "6b9b2982076186b34b43005ffcaf2c588404859c5880af823d2c619b119f862c"
-
-[[files]]
-file = "config/minihud/new_worldtest.json"
-hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
-
-[[files]]
-file = "config/minihud/new_worldtest_dim_minecraft_overworld.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
-
-[[files]]
-file = "config/noindium.json"
-hash = "9e06c06b91c2efa83e972df6f80e4ec0ffdf777dbf0e420a658c8fd7aa63dbed"
-
-[[files]]
-file = "config/origins_server.toml"
-hash = "3df326eacd3e957cdab0886143c8abc51884df8c875ef78f5f4e96a9889b6b53"
-
-[[files]]
-file = "config/pehkui/config.json"
-hash = "fbeef6824d25599913f1688088987d8b4b0248a673806ebf73ddb94b9a586a8e"
-
-[[files]]
-file = "config/power_config.json5"
-hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
-
-[[files]]
-file = "config/presencefootsteps/updater.json"
-hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
-
-[[files]]
-file = "config/presencefootsteps/userconfig.json"
-hash = "e8aabaa7d14d1b6360309b75acea1ea87af988ba483267e9879637c1bd3478cf"
-
-[[files]]
-file = "config/rocks.json"
-hash = "494142de1c7ae469480dd968e13ae2d040a87d9b397ca195415df5ba54385a26"
-
-[[files]]
-file = "config/rrp.properties"
-hash = "f4f132cc2d83d4d10fd6218c17f5e5e8efe5153e51a195c8ed0c5a7a111df60d"
-
-[[files]]
-file = "config/serverhats.json"
-hash = "b66f056f5b052c4a6c816231bf60afff03cfa25f5c93a3d7dd2b0b890319418e"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
-
-[[files]]
-file = "config/stacker.json"
-hash = "a25985621340d6879656c8602f7fd2299a3aaca61f0ec52a36d91e18728a046b"
-
-[[files]]
-file = "config/terrablender.toml"
-hash = "11ef4c2666fa094b456310710c2b5cb8babbd71982d4d187c9a80ad4011d8014"
-
-[[files]]
-file = "config/tips.json"
-hash = "76ec3342ee9f2bc464eacfb3fb8ced0119d1befd2d8fa26f8c35e3286a1f2c73"
-
-[[files]]
-file = "config/voicechat/username-cache.json"
-hash = "7fd6bb20736cca50e0d138cd3cbc7c697b4356168737ed31fc8872ad155237ba"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "9a239e3afa427832219cf17586bb45c7f8c509fa7f3b8dcfbc7b4fb7379d5069"
-
-[[files]]
-file = "config/voicechat/voicechat-server.properties"
-hash = "0fde35cd7260306c9194997fb894577214925e6005dfd45e3d3edc94a7908362"
-
-[[files]]
-file = "config/waila/blacklist.json"
-hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
-
-[[files]]
-file = "config/waila/waila.json"
-hash = "4597fde5d576f236df3cdb1e9049601e766780ca9b245263a0fc0aa886286624"
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
 
 [[files]]
 file = "config/xaerominimap.txt"
 hash = "a0afc6c2a79d0b46b97a4175a81faec5a8bef25aa087e455d8790505ed3408f0"
 
 [[files]]
-file = "config/xaerominimap_entities.json"
-hash = "ccae96fcede416881a7ad53f16f8a419665ccafbda203e294a4edb22029c2679"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
-
-[[files]]
 file = "config/xaeroworldmap.txt"
 hash = "cf2dcdca67076c7b59573140082f166da0c260cf932120eee956632f2e6870f6"
 
 [[files]]
-file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "ef782340ef5ae95c43bb30a20d31ee8ac55d62b7253759f52d21ae28f0fa3229"
-metafile = true
+file = "mods/AdvancementPlaques-1.18.2-fabric-1.4.5.jar"
+hash = "70fba689b45512a0ad8f225434e9000d80ebdf20f3a27224344a55f768df31b8"
+
+[[files]]
+file = "mods/Bookshelf-Fabric-1.18.2-13.2.34.jar"
+hash = "91e2f5a6f4025a12b7168518fa854907fbeb135ba4a0298a1430a26218109dc8"
+
+[[files]]
+file = "mods/Chunky-1.2.164.jar"
+hash = "8ec6841b7afc28eee5f2268868f78379272af6112561d9f9fa66bd4347ac3954"
+
+[[files]]
+file = "mods/CosmeticArmor-1.18.2-1.3.1.jar"
+hash = "3fdd694b79e3517fa39d1341ca9ba2ba1c9a83be7f3e9756ecf2427424083ed1"
+
+[[files]]
+file = "mods/CraftPresence-Fabric-1.18.2-Release-1.8.8.jar"
+hash = "c64597656e04b9d4667013394330e95c1736c614c316100a391b2a4c83b0b004"
+
+[[files]]
+file = "mods/DarkUtilities-Fabric-1.18.2-10.0.5.jar"
+hash = "b42fda6db18c0f45678eecc99d084c26c1afa28777091c242bf6c8643d1898af"
+
+[[files]]
+file = "mods/ForgeConfigAPIPort-v3.2.0-1.18.2-Fabric.jar"
+hash = "60e2761d249dacf7cc6235c38087427166039b4ae26116e8e65b3b14ac3c44dc"
+
+[[files]]
+file = "mods/Iceberg-1.18.2-fabric-1.0.38.jar"
+hash = "70096b8c2c6849ec975c2d8d7ac874a6d6766761255c1a9c4a1d9c100e28fc26"
+
+[[files]]
+file = "mods/MinecraftCapes Fabric 1.18.2-12.0.2.jar"
+hash = "cb517788d7fe58e49b0e289161dc2c11a028901f0ebf6c6c0d9b9907019379cc"
+
+[[files]]
+file = "mods/Origins-1.18.2-1.4.1.jar"
+hash = "e6792ae6b3c04cbc13d77428ef506d83eae452fd14c4e220a1e09ee53c33900c"
+
+[[files]]
+file = "mods/Pehkui-3.3.3+1.14.4-1.19.1.jar"
+hash = "14b307479b4c059200fe0b2defba3e5526861486a020b727a8ef1383ca625bd7"
+
+[[files]]
+file = "mods/PigPen-Fabric-1.18.2-8.0.1.jar"
+hash = "a32d435e00097f303b2f57c0a590c19971430c6c6436c873b3f8cee8cd140a1a"
+
+[[files]]
+file = "mods/PresenceFootsteps-1.5.1.jar"
+hash = "b8ef1f8f19b82f02004a4c45dc91b20adad29461a641137c9d5e0c09e1014291"
+
+[[files]]
+file = "mods/Runelic-Fabric-1.18.2-11.0.1.jar"
+hash = "7ac8e32eb160d67a20adc93f23c80b4e595f1f620c5f653eeb238ff72b643984"
+
+[[files]]
+file = "mods/Tips-Fabric-1.18.2-5.0.3.jar"
+hash = "5ea3ac5b52db468d5551bf86352706d2554051e9afd3d8ac5dc3e90882338f97"
+
+[[files]]
+file = "mods/XaerosWorldMap_1.24.0_Fabric_1.18.2.jar"
+hash = "c419eadc19521d8472b5e50a5165e78f380b3ae96ce2a277168d3bba98e29e7f"
+
+[[files]]
+file = "mods/Xaeros_Minimap_22.10.0_Fabric_1.18.2.jar"
+hash = "65faf917ead9828147166f63f2cf5c1ea56195f07f4d01de7addf0a3bbdbdf6d"
 
 [[files]]
 file = "mods/appliedenergistics2-11.1.4.jar"
 hash = "13be7bb1da05dcf1a5f39562f0e410cc527f8306d048bf3a1fd2bc26c3a5065a"
 
 [[files]]
-file = "mods/arcanus.pw.toml"
-hash = "1627373c29b02b85daf087eb1c25f9293e45079a1b00fe3dde8a6b7c22f2e515"
-metafile = true
+file = "mods/arcanus-1.29.jar"
+hash = "7347b225b129e0645b10249001d7fa71816db7a6ad9fcc1a27a6f6e5746a74eb"
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
-metafile = true
+file = "mods/badpackets-fabric-0.1.2.jar"
+hash = "205b163eab823e77a72624e8cf855563f8cc0e45ed8f8ff45331f397e0d48954"
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "445a8bb98309b222555b464d8696752cd005ea7e8def9f69dd1aaa37496d3bc4"
-metafile = true
+file = "mods/campanion-3.0.4.jar"
+hash = "bf81b31462e5e02183eff95f3e6a5719f35baa4e7ab04268d51ede57555125a7"
 
 [[files]]
-file = "mods/campanion.pw.toml"
-hash = "51c02fd456f3a8c3c13b60fbecb9920d399c3ec5544d1a9b116d8e36d802e22a"
-metafile = true
+file = "mods/can-i-mine-this-block-1.2.0.jar"
+hash = "f809b7e7faacf9f60fb43486fa01b9ac83b34ef648904f27b12ffb4f74e0027d"
 
 [[files]]
-file = "mods/can-i-mine-this-block.pw.toml"
-hash = "24893bede5593f7a1ea42d37adb379883075945949b1d219cfcbe03f91cb5aae"
-metafile = true
-
-[[files]]
-file = "mods/cc-restitched.pw.toml"
-hash = "68d97d7c43f28d54f75e4acfdcfc05c3c963739d438892d8d84c68ebc9d181bf"
-metafile = true
-
-[[files]]
-file = "mods/chunky-pregenerator.pw.toml"
-hash = "19e63d6f119b40ee83127070ff6f64e345b2eaada2121d35ca12a3123c588f69"
-metafile = true
+file = "mods/cc-restitched-1.100.8.jar"
+hash = "8edab8d889680478279c0411b80c411cb0791f0b27cdb386f6ac5e2fd1cd718e"
 
 [[files]]
 file = "mods/clientcommands-2.6.6.jar"
 hash = "93136e6d9040673dbc860e6f0f9a80951738a34089a8c32fd3a3a3b7835f25b1"
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
-metafile = true
+file = "mods/cloth-config-fabric-6.2.62.jar"
+hash = "6c2cc205ececddebc6625eccbd37e3bb284acded7a67c74225894b9430f9e6d5"
 
 [[files]]
-file = "mods/cosmetic-armor-fabric.pw.toml"
-hash = "c4ad779f7981008be478e289038bdb9091bf35f4d9c8d651b5db1689b8ba4491"
-metafile = true
+file = "mods/dawn-3.3.2.jar"
+hash = "66d2476ed2e9f8e8bf3c435c54ceadae50c9603a6c4d4331c925a6ca7a1dde34"
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "17ac3c7ad4d264714b86b9caa569878d15c7f71ec33c4c61b2ace8eb02139de1"
-metafile = true
+file = "mods/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.32-fabric.jar"
+hash = "20e5c2a434913038a05924fd7a50c072969de0e77cb360263751fd54102c256f"
 
 [[files]]
-file = "mods/dark-utilities.pw.toml"
-hash = "e3e9d5514c419f34242839e3cdf0b15aaaf92d6c685cb03c4d6c7130f09cbc76"
-metafile = true
+file = "mods/enhancedblockentities-0.7.1+1.18.2.jar"
+hash = "77b979605b211a85fe9b873351b9c6068a2cee131e4f30619bb3b03013517bac"
 
 [[files]]
-file = "mods/dawn.pw.toml"
-hash = "341886dcf5776acf3b8c02724a1a4cb74694292dbeab983724f6b4e271893c91"
-metafile = true
+file = "mods/fabric-api-0.57.0+1.18.2.jar"
+hash = "e0449f3017b0b77bca647cf5f2cc6292ec47b28461c2f84d53e6f461f5f906d3"
 
 [[files]]
-file = "mods/emotecraft.pw.toml"
-hash = "074b5e5ee329f3771e5348f63045af0ed6af01552775501ed041aaa46035ffeb"
-metafile = true
+file = "mods/ferritecore-4.2.1-fabric.jar"
+hash = "17651e8a18f88c58fa0dbcd462507899f8a0136b72da8fd7e5eb5ad95ba2260a"
 
 [[files]]
-file = "mods/enhanced-block-entities.pw.toml"
-hash = "26fc1b6eed34ae6c622682efd66c82c99e22027750c31853709255ed3d672902"
-metafile = true
+file = "mods/forcecloseloadingscreen-1.1.1.jar"
+hash = "6b2de687655ec10465884df7014cc5e4ce526cd59db5ebef51fa291b1076e72b"
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "42e2da7f33977bfa2bb411e1443723a857276cc460717573ef9f8f861076ad64"
-metafile = true
+file = "mods/half-doors-1.18.2-fabric-1.3.6.jar"
+hash = "4c339d5d49ff52cb10f0b5591f5645baf7243042788e99d2c2ba3c4bcf8c9cfa"
 
 [[files]]
-file = "mods/ferritecore-fabric.pw.toml"
-hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
-metafile = true
+file = "mods/immersive-portals-1.4.8-mc1.18.2-fabric.jar"
+hash = "9ac9d238992f904d712c701d3e412aed29579f82a39641d5dcc0f4282340d7f8"
 
 [[files]]
-file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "4d2911ace7454364aec1b496a976cbee02ee8f2d254bf83a9c1af05c5e90eda9"
-metafile = true
+file = "mods/immersive_weathering-2.5.6.jar"
+hash = "2f2afdcb766caa88d779cd552c652176ba1f718f380e08f256abf403a9245c25"
 
 [[files]]
-file = "mods/half-doors.pw.toml"
-hash = "fd14ed9ff681b2c50cdd97bbdbfc48eeaf470ea16558804253467133ee009e64"
-metafile = true
+file = "mods/indium-1.0.6+mc1.18.2.jar"
+hash = "6306e98b74f95c08284043d52b02b7cf0c00b147ede6f89ff715061794fa05ac"
 
 [[files]]
-file = "mods/iceberg-fabric.pw.toml"
-hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
-metafile = true
+file = "mods/jei-1.18.2-fabric-10.1.0.208.jar"
+hash = "e4c85c262d35008834743f05d52728854d5d8d062f9774f9e7063ad29011fdfe"
 
 [[files]]
-file = "mods/immersive-portals-mod.pw.toml"
-hash = "edd3aecb407ee11608e5e48f4d12ff7128245d4d6da7ce275b21780e0fa5b620"
-metafile = true
-
-[[files]]
-file = "mods/immersive-weathering-fabric.pw.toml"
-hash = "a2c5ed8ec06b5d9313e94c83685013f726a2503b64f32e19b8f326af6c76d1f9"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "8144bc5631457a762074a032a196e7cf5b40607f705923ee3305c9d20aed61cf"
-metafile = true
-
-[[files]]
-file = "mods/infinite-music.pw.toml"
-hash = "9fe98b97f38feceabf180a9f41ce84ec72a4b8a06098ef98d5af503be271b445"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "38f73b90fe0ce16bfede3492bde736c04a299565de985ddbbd576ec79b34abb7"
-metafile = true
-
-[[files]]
-file = "mods/kiln-fabric.pw.toml"
-hash = "455a00ae63b4fea42ebf36db78b2ef3f61667438ddc60a4ea5bfc0826f2ef175"
-metafile = true
+file = "mods/kiln-1.2.0+1.18.2.jar"
+hash = "bc3b5ff756677ab1225ba596d4ca481f608978930f5c2eb12c8c290cb07170b4"
 
 [[files]]
 file = "mods/lambdynamiclights-2.1.0+1.17.jar"
 hash = "d17bd6e230110e399d43f86cc9c820ae8b0ff1af7fa9f9cd686aec59495c195d"
 
 [[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
-metafile = true
+file = "mods/lazydfu-0.1.2.jar"
+hash = "e78eb1492e20bcd8c998d4142dd437c2517393c5d02f582204ad8a38341e75e8"
 
 [[files]]
-file = "mods/litematica.pw.toml"
-hash = "4e7136bf019c6d6333acc30e0a57133c1f23d1585b6c15b9f7a3011beca81247"
-metafile = true
+file = "mods/litematica-fabric-1.18.2-0.11.3.jar"
+hash = "379c552c8c85b0c6a0aecdea2313409cbb6f836581b56afc87c91fcc3ea08830"
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
-metafile = true
+file = "mods/lithium-fabric-mc1.18.2-0.7.10.jar"
+hash = "fce2a8e9174c4b8210a73e54df6923fc84784ce4c89230cdc5dddddbf366bbbc"
 
 [[files]]
-file = "mods/logical-zoom.pw.toml"
-hash = "b8ac8ef13235f9728b85eddb5c2739ad28689a7cb1d4d308b17deb6d63bba9ca"
-metafile = true
+file = "mods/logical_zoom-0.0.14.jar"
+hash = "799c2eac27774835b23c1ee4e694e1c25526937bb9533113e7f397c36ed3f6d7"
 
 [[files]]
 file = "mods/lovely_snails-1.0.4+1.18.jar"
 hash = "3d035a8f2132b146488fcd55c6eb17bc72470dd5ccd1bf4532a52762b788a685"
 
 [[files]]
-file = "mods/malilib.pw.toml"
-hash = "b5b47d70b94e6519b798ce3f172339bba1413ee64cb08c4f0559d0d83b38bed3"
-metafile = true
+file = "mods/malilib-fabric-1.18.2-0.12.1.jar"
+hash = "825c7c1c00b208c3999c3dc5706afbf3e1d6b8156c82f0bc5a588979dbafd3ea"
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "66da572768333848a6ad0b798c955966956cf63fdf72770260db8909acfe5c4d"
-metafile = true
+file = "mods/midnightlib-0.4.4.jar"
+hash = "3052664292756b4da6a04efaa0dabdfc346b9f1fe30d69d577d766a1ad1efa6d"
 
 [[files]]
-file = "mods/minecraftcapes-mod.pw.toml"
-hash = "7b916933beed5bf88fd2d3c731e39c9ca07a747f412991dcb45879eb087785c6"
-metafile = true
+file = "mods/minihud-fabric-1.18.2-0.22.0.jar"
+hash = "e8c7d7c9b513f66bfd3a17c6fa93c447b7602ad81c76f2184182a0a2268fc312"
 
 [[files]]
-file = "mods/minihud.pw.toml"
-hash = "fdda29af500ea4b6f6b4b04101caafdb651643dbad1ed8a22c89fd7718a07412"
-metafile = true
+file = "mods/modmenu-3.2.3.jar"
+hash = "e577b5403d41c7c9515ee7cf45752d3b856a6bb96d6b937760df3fad483dbc18"
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "86c821389c1ecfcf2b83975287bf3a549b00b096989324bcc15fe8a0cb06e80e"
-metafile = true
+file = "mods/rocks-1.6.0.jar"
+hash = "3cd1e24a139dcf5067322f00158c940a9db80c932e7f88b3eb58136e900ff00f"
 
 [[files]]
-file = "mods/origins.pw.toml"
-hash = "3b695c715b0500ffa0934bb6b688cd54f63fdc44f69e3706308eaf708fe9a17b"
-metafile = true
+file = "mods/server-hats-0.9.jar"
+hash = "bc2f737893787b661d43aadb87946e8df8eb812a69bd57746d630cf831bb04d3"
 
 [[files]]
-file = "mods/pehkui.pw.toml"
-hash = "973bd6c595505db1555232699ee8a2a1498117eca8ab5613b1f519497057e080"
-metafile = true
+file = "mods/servertick-mc1.18-1.6.jar"
+hash = "f25a74f08ae0fb041028c04f58a6a20540c87072c6a9e57a9ab8510b5d109a0c"
 
 [[files]]
-file = "mods/pig-pen-cipher.pw.toml"
-hash = "5b375d0099feaceff6b88827f22321790900c24f83184b92d1dab89d224c7cc9"
-metafile = true
+file = "mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar"
+hash = "776fb3cd8c8ddee898eb1d9dc88a72d899aaa8792f21914b39ad990cea253784"
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "10affce7c1c9de85819a839b177979f414be3a6bb65e4033b30b425cce3fb3fd"
-metafile = true
+file = "mods/stacker-3.0.1-1.18.2.jar"
+hash = "ca3c515c2f0fcde6cdd2184737f6d43fcff7716faa7ad1c8255fa9814d5930c7"
 
 [[files]]
-file = "mods/runelic.pw.toml"
-hash = "4a1644d6fae0a2a4f51a4dd1249d4fdc12a718a78ae3fe86980515511c5473eb"
-metafile = true
-
-[[files]]
-file = "mods/server-hats.pw.toml"
-hash = "e07e150c33a05b6da4801c38aab521be168de6a1a28e9249be451b15d200b934"
-metafile = true
-
-[[files]]
-file = "mods/servertick.pw.toml"
-hash = "0c1059f3edc1d1028c4948f7b9b0efb31d4f013649694c73ac52ed2d61a99b8c"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "88b3951771849c8ae24df43236d74dc759f3c58ea5433a3e4818e0482555a463"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "470c19232a750a398997935c13778a662468fa69fb78c9f269189f41b132d094"
-metafile = true
-
-[[files]]
-file = "mods/stacker.pw.toml"
-hash = "8dc15724448401bf709e07b9f67475c71ff85984b96ace63c037b8cefbecaa6d"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "73259e05c16e2461736d7d7ddc8775ca97c9efd70e6a912dc2280e2bf2c67396"
-metafile = true
+file = "mods/starlight-1.0.2+fabric.89b8d9f.jar"
+hash = "d8a8cfdd61502f5355581be72751ee35215418cc53de23a02071ee1ee295372d"
 
 [[files]]
 file = "mods/technomodel-1.0.2.jar"
 hash = "a1a80da71c99e2f4b104d92c43f8d743c680aa0274e1adad1a3911e24868a205"
 
 [[files]]
-file = "mods/this-rocks.pw.toml"
-hash = "ae1b4d0506e2d8d6b469d972cfc962ca55aa31cec147ae7bc0cba14b8b429213"
-metafile = true
+file = "mods/traverse-5.1.0.jar"
+hash = "fad506c5e724908e4f0f0a267a1e63f4e4bd18783697185cd23763ed390d83b5"
 
 [[files]]
-file = "mods/tips.pw.toml"
-hash = "495d4d7597bb4fd9844b48102ac90cfad139690f8441e0f90ebfb038cefbedf7"
-metafile = true
+file = "mods/trinkets-3.3.1.jar"
+hash = "985920fe4affcd9c1e998eff1a0e63ce38e8ab869f1c14376742125d65c48108"
 
 [[files]]
-file = "mods/traverse.pw.toml"
-hash = "b3d8e1d6ec8a028b5cb36f8329634c22cbafd566cc8b8e0707137e19a8caee30"
-metafile = true
+file = "mods/universal_ores-1.3.0.jar"
+hash = "83d20b24363b4a7281a7ce09e60506fdb62ce1da608d122ec3bc2c7138845dd1"
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
-metafile = true
+file = "mods/voicechat-fabric-1.18.2-2.2.47.jar"
+hash = "3972849a431eec89620514fda363d2edff37bfae83a13d55908fe15125039731"
 
 [[files]]
-file = "mods/universal-ores-fabric.pw.toml"
-hash = "dfc9d3cf4b1684efc3de576ab851f9e1cdf1ef0ac52bdc02b0c836961f3ebcf6"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "6f6f9795b9317427dce5d7d4970ed71307b0141b8490cdcef1b19a4c8c100c66"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "c985086e33576afd91d197950ddec8cbb9fc6002dab937d24a60ba315f6c390b"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "af8071575c7163a5cc8aa51237098a47d29487edfecda69ef07c03433c37d928"
-metafile = true
+file = "mods/wthit-fabric-4.11.0.jar"
+hash = "1fe3511b98c76207e478de61d66345e21c724a541765030099ff9b899e141732"
